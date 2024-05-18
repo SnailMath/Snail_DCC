@@ -29,22 +29,22 @@ These examples are just to understand what my library does - or more like what i
 This is just an arduino library, go to your Home folder and find the folder called arduino, and go into the folder libraries. Download this archive and unpack it into a folder called Snail_Dcc. So the Folder Structure should look like this:
 
 ```
-Documents
-+ Arduino
-| + Libraries
-| | + Snail_Dcc
-| | | + examples
-| | | | + Accessory_Decoder
-| | | | | - Accessory_Decoder.ino
-| | | | + Serial_Binary
-| | | | | - Accessory_Decoder.ino
-| | | | + Serial_Info
-| | | | | - Serial_Info.ino
-| | | | + Serial_Loco_Decoder
-| | | | | - Serial_Loco_Decoder.ino
-| | | - README.MD
-| | | - snail_dcc.cpp
-| | | - snail_dcc.h
++ Documents
+| + Arduino
+| | + Libraries
+| | | + Snail_Dcc
+| | | | + examples
+| | | | | + Accessory_Decoder
+| | | | | | - Accessory_Decoder.ino
+| | | | | + Serial_Binary
+| | | | | | - Accessory_Decoder.ino
+| | | | | + Serial_Info
+| | | | | | - Serial_Info.ino
+| | | | | + Serial_Loco_Decoder
+| | | | | | - Serial_Loco_Decoder.ino
+| | | | - README.MD
+| | | | - snail_dcc.cpp
+| | | | - snail_dcc.h
 ```
 
 ## Have Fun!
