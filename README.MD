@@ -24,4 +24,27 @@ The last example is `Acccessory_Decoder`. As the name implies, this is a working
 
 These examples are just to understand what my library does - or more like what it doesn't do, because all the decodnig of the DCC packets is left to the user, since this is not so complicated and it depends on which functions one wants to implement.
 
+## Installation of this library
+
+This is just an arduino library, go to your Home folder and find the folder called arduino, and go into the folder libraries. Download this archive and unpack it into a folder called Snail_Dcc. So the Folder Structure should look like this:
+
+```
+Documents
++ Arduino
+| + Libraries
+| | + Snail_Dcc
+| | | + examples
+| | | | + Accessory_Decoder
+| | | | | - Accessory_Decoder.ino
+| | | | + Serial_Binary
+| | | | | - Accessory_Decoder.ino
+| | | | + Serial_Info
+| | | | | - Serial_Info.ino
+| | | | + Serial_Loco_Decoder
+| | | | | - Serial_Loco_Decoder.ino
+| | | - README.MD
+| | | - snail_dcc.cpp
+| | | - snail_dcc.h
+```
+
 ## Have Fun!
