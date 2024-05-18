@@ -1,6 +1,6 @@
-# Snail_DCC
+# Snail_Dcc
 
-This is a small library that I wrote in one day because there was no DCC library for the arduino that was working and easy to use.
+This is a small library for Arduino that I wrote in one day because there was no DCC library that was working and easy to use.
 
 ## Warning: **NOT** NMRA compliant!
 
